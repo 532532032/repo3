@@ -7,4 +7,6 @@ public interface ItemsDao {
 
     Items findById(Integer id);
 
+    public void test();
+
 }
